@@ -1,0 +1,22 @@
+,Note_du_livre,Date_de_naissance,Annee_du_prix,Age_quand_prix_recu,Nombre_de_romans_ecrit,label
+Trophee.813,"[5, 9]","[1899, 1964]","[1981, 2004]","[29, 90]","[3, 169]",oui
+Prix.du.Quai.des.Orfevres,"[4, 9]","[1883, 1965]","[1946, 2004]","[24, 69]","[1, 49]",oui
+Prix.Michel.Lebrun,"[5, 9]","[1939, 1961]","[1980, 2003]","[29, 53]","[1, 43]",oui
+Grand.Prix.de.Litterature.policiere,"[4, 9]","[1893, 1965]","[1948, 2004]","[26, 75]","[1, 136]",oui
+Grand.Prix.RTL.Lire,"[3, 6]","[1908, 1961]","[1976, 2004]","[31, 68]","[1, 18]",non
+Grand.Prix.de.la.Griffe.noire,"[3, 5]","[1923, 1953]","[1964, 2001]","[41, 48]","[1, 16]",non
+Grand.Prix.du.Roman.d.Aventure,"[3, 9]","[1871, 1960]","[1930, 2003]","[23, 64]","[1, 97]",oui
+Prix.du.Roman.d.Aventures,"[5, 6]","[1886, 1957]","[1937, 2002]","[40, 51]","[1, 47]",oui
+Prix.Polar.de.Cognac,"[5, 8]","[1923, 1964]","[1996, 2004]","[36, 74]","[1, 21]",oui
+Grand.Prix.du.Festival.de.Cognac,"[5, 9]","[1883, 1957]","[1947, 2002]","[31, 66]","[3, 42]",oui
+Prix.du.Polar.SNCF,"[2, 7]","[1943, 1960]","[1995, 2004]","[38, 57]","[2, 15]",non
+Prix.Mystere.de.la.Critique,"[4, 9]","[1905, 1964]","[1972, 2002]","[30, 76]","[2, 169]",oui
+Prix.du.Festival.de.Cognac,"[5, 9]","[1928, 1967]","[1981, 2001]","[29, 53]","[1, 33]",oui
+Prix.de.Montigny.les.Cormeilles,"[3, 7]","[1928, 1961]","[1952, 2004]","[24, 58]","[2, 31]",non
+Prix.du.Festival.de.Saint.Nazaire,"[4, 7]","[1942, 1960]","[1989, 2000]","[35, 57]","[3, 40]",non
+Prix.Calibre.38,"[5, 9]","[1927, 1959]","[1982, 2004]","[38, 63]","[1, 60]",oui
+Prix.de.l.Estrapade,"[3, 6]","[1931, 1967]","[1962, 2001]","[30, 52]","[2, 33]",non
+Grand.Prix.du.Roman.d.Espionnage,"[4, 9]","[1911, 1931]","[1960, 1969]","[30, 57]","[17, 167]",oui
+Prix.Rompol,"[3, 6]","[1909, 1965]","[1946, 2002]","[31, 65]","[1, 4]",non
+Prix.de.Saint.Quentin.en.Yvelines,"[1, 8]","[1949, 1959]","[1998, 2002]","[39, 52]","[2, 21]",non
+Prix.des.Libraires,"[1, 5]","[1957, 1959]","[2002, 2003]","[43, 45]","[1, 12]",non
