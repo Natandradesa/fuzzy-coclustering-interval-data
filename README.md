@@ -109,7 +109,7 @@ interval_datasets/
 ### Step 1: Compute Kernel Width Estimates
 
 ```bash
-python benchmark_application/compute/caputo_estimatives.py
+python benchmark_application/compute_caputo_estimatives.py
 ```
 
 ### Step 2: Run the Benchmark
