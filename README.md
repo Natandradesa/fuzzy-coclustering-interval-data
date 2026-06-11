@@ -1,4 +1,4 @@
-````markdown
+
 # Fuzzy Co-Clustering and Kernel Fuzzy Co-Clustering for Interval-Valued Data
 
 This repository contains the source code, datasets, and experimental results associated with the paper:
@@ -7,7 +7,7 @@ This repository contains the source code, datasets, and experimental results ass
 >
 > José Nataniel Andrade de Sá, Marcelo Rodrigo Portela Ferreira, Francisco de Assis Tenório de Carvalho
 >
-> Accepted at the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2026), held as part of the IEEE World Congress on Computational Intelligence (WCCI 2026).git
+> Accepted at the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2026), held as part of the IEEE World Congress on Computational Intelligence (WCCI 2026).
 
 > **Note**
 >
