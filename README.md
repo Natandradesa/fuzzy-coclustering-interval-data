@@ -37,7 +37,7 @@ The repository also includes all scripts required to reproduce the experiments r
 - `algorithms/`: implementations of the clustering and co-clustering methods.
 - `benchmark_application/`: scripts for the real-data experiments.
 - `interval_datasets/`: interval-valued benchmark datasets used in the experiments.
-- `metrics/`: evaluation measures and validation indices.
+- `metrics/`: code for the evaluation measures.
 - `notebooks/`: Jupyter Notebook code for analyzing the results.
 - `synthetic_application/`: scripts for the synthetic-data experiments.
 - `utils/`: auxiliary functions shared across the project.
@@ -173,7 +173,7 @@ Main dependencies:
 * Scikit-learn
 * Joblib
 
-The complete list of dependencies is available in:
+More details about the dependencies are available in:
 
 ```text
 requirements.txt
@@ -183,15 +183,15 @@ requirements.txt
 
 ## References
 
-### Interval Fuzzy C-Means (IFCM)
+#### Interval Fuzzy C-Means (IFCM)
 
 De Carvalho, F. A. T. (2007). *Fuzzy c-means clustering methods for symbolic interval data*. Pattern Recognition Letters, 28(4), 423–437.
 
-### Kernel Interval Fuzzy C-Means (KFCM-IV)
+#### Kernel Interval Fuzzy C-Means (KFCM-IV)
 
 Pimentel, B. A., Costa, A. F. B. F., & Souza, R. M. C. R. (2011). *Kernel-based fuzzy clustering of interval data*. In **2011 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2011)** (pp. 497–501). IEEE.
 
-### Kernel Width Estimation
+#### Kernel Width Estimation
 
 Caputo, B., Sim, K., Furesjö, F., & Smola, A. (2002). *Appearance-based object recognition using SVMs: Which kernel should I use?* NIPS Workshop on Statistical Methods for Computational Experiments in Visual Processing and Computer Vision.
 
